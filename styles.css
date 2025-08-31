@@ -27,7 +27,7 @@ main {
 }
 footer {
     text-align: center;
-    padding: 10px;
+    padding: 15px;  /* Updated from 10px to 15px for better spacing */
     background: #2c3e50;
     color: #ffffff;
 }

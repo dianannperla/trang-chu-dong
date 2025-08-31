@@ -1,3 +1,4 @@
+
 node_modules/
 
 dist/
@@ -5,3 +6,6 @@ dist/
 .DS_Store
 
 # log/*.log
+
+# Ignore coverage directory
+coverage/
